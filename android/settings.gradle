@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativePoc'
+
+include ':app'
